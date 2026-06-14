@@ -1,0 +1,16 @@
+{"level":"info","message":"⌛ Building environment","timeElapsed":273,"timestamp":"2026-06-14T17:35:02.887Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":114,"timestamp":"2026-06-14T17:35:03.004Z"}
+{"level":"info","message":"⌛ Validating ciudadFuturista.wlk","timeElapsed":188,"timestamp":"2026-06-14T17:35:03.209Z"}
+{"level":"info","message":"⌛ Validating ciudadFuturista.wlk","timeElapsed":138,"timestamp":"2026-06-14T17:35:03.433Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":118,"timestamp":"2026-06-14T17:35:30.596Z"}
+{"level":"info","message":"⌛ Validating ciudad>Futurista.wtest","timeElapsed":154,"timestamp":"2026-06-14T17:35:30.784Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":125,"timestamp":"2026-06-14T17:35:53.274Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":154,"timestamp":"2026-06-14T17:35:53.429Z"}
+{"level":"info","message":"⌛ Validating ciudad>Futurista.wtests","timeElapsed":140,"timestamp":"2026-06-14T17:35:53.665Z"}
+{"level":"info","message":"Removing diagnostics from /home/erika/Documentos/Parciales_Obj1/CiudadFuturista/ciudad>Futurista.wtest","timestamp":"2026-06-14T17:35:53.665Z"}
+{"level":"error","message":"✘ Error on handler Invalid file extension: wtests","stack":"Error: Invalid file extension: wtests\n    at GL (/home/erika/.vscode/extensions/uqbar.wollok-lsp-ide-0.5.4/out/server/src/server.js:2383:10453)\n    at /home/erika/.vscode/extensions/uqbar.wollok-lsp-ide-0.5.4/out/server/src/server.js:2397:930\n    at /home/erika/.vscode/extensions/uqbar.wollok-lsp-ide-0.5.4/out/server/src/server.js:2398:8440\n    at /home/erika/.vscode/extensions/uqbar.wollok-lsp-ide-0.5.4/out/server/src/server.js:37:76528\n    at Ke (/home/erika/.vscode/extensions/uqbar.wollok-lsp-ide-0.5.4/out/server/src/server.js:7:8527)\n    at Lt (/home/erika/.vscode/extensions/uqbar.wollok-lsp-ide-0.5.4/out/server/src/server.js:7:6189)\n    at ct (/home/erika/.vscode/extensions/uqbar.wollok-lsp-ide-0.5.4/out/server/src/server.js:7:6378)\n    at Immediate._onImmediate (/home/erika/.vscode/extensions/uqbar.wollok-lsp-ide-0.5.4/out/server/src/server.js:7:6142)\n    at process.processImmediate (node:internal/timers:484:21)","timestamp":"2026-06-14T17:35:53.675Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":118,"timestamp":"2026-06-14T17:36:09.514Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":151,"timestamp":"2026-06-14T17:36:09.666Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":101,"timestamp":"2026-06-14T17:36:09.767Z"}
+{"level":"info","message":"⌛ Validating ciudadFuturista.wtest","timeElapsed":133,"timestamp":"2026-06-14T17:36:09.905Z"}
+{"level":"info","message":"Removing diagnostics from /home/erika/Documentos/Parciales_Obj1/CiudadFuturista/ciudad>Futurista.wtests","timestamp":"2026-06-14T17:36:09.905Z"}
