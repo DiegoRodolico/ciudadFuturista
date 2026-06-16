@@ -1,4 +1,4 @@
-import ciudadFuturista.*
+import ciudadFuturistaYAHECHO.*
 describe "Tests del sistema de la Ciudad Futurista" {
     
     const sensorConMejora = new Sensor(capacidad = 10, durabilidad = 30, tieneMejoras = true)
